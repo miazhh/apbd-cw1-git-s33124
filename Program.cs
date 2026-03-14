@@ -9,3 +9,16 @@ double roznica = liczba1 - liczba2;
 
 Console.WriteLine($"Suma: {suma}");
 Console.WriteLine($"Różnica: {roznica}");
+
+double iloczyn = liczba1 * liczba2;
+Console.WriteLine($"Iloczyn: {iloczyn}");
+
+if (liczba2 != 0)
+{
+    double iloraz = liczba1 / liczba2;
+    Console.WriteLine($"Iloraz: {iloraz}");
+}
+else
+{
+    Console.WriteLine("Błąd: Nie można dzielić przez zero!");
+}
