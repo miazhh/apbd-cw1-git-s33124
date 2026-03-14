@@ -36,4 +36,8 @@ public static class Kalkulator
     {
         return a / b;
     }
+    public static double Srednia(double a, double b)
+    {
+        return (a + b) / 2;
+    }
 }
