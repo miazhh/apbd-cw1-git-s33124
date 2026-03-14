@@ -19,9 +19,9 @@ else
 
 public static class Kalkulator
 {
-    public static double Suma(double a, double b)
+    public static double Suma(double first, double second)
     {
-        return a + b;
+        return first + second;
     }
     public static double Roznica(double a, double b)
     {
