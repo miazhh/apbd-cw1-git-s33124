@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Podaj pierwszą liczbę:");
+double liczba1 = double.Parse(Console.ReadLine());
+
+Console.WriteLine("Podaj drugą liczbę:");
+double liczba2 = double.Parse(Console.ReadLine());
