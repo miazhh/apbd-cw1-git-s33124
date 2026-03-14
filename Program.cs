@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Podaj liczbę:");
+﻿Console.WriteLine("KALKULATOR");
+Console.WriteLine("Podaj liczbę:");
 double liczba1 = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Podaj drugą liczbę:");
