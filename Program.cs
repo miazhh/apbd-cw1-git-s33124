@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Podaj pierwszą liczbę:");
+﻿Console.WriteLine("Podaj liczbę:");
 double liczba1 = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Podaj drugą liczbę:");
