@@ -40,4 +40,8 @@ public static class Kalkulator
     {
         return (a + b) / 2;
     }
+    public static double Max(double a, double b)
+    {
+        return Math.Max(a, b);
+    }
 }
