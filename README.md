@@ -1,0 +1,2 @@
+Zadanie 5
+Tym razem merge nie był fast-forward, ponieważ w gałęzi main został wprowadzony commit przed mergem feature-max. Obie gałęzie się rozeszły i wprowadziły swoje zmiany, więc git musiał je scalić.
