@@ -46,8 +46,8 @@ public static class Kalkulator
         return Math.Max(a, b);
     }
 
-    public static int Min(double a, double b)
+    public static double Min(double a, double b)
     {
-        return 0;
+        return Math.Min(a,b);
     }
 }
