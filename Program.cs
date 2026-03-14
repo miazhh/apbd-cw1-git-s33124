@@ -22,6 +22,7 @@ public static class Kalkulator
     public static double Suma(double a, double b)
     {
         return a + b;
+        Console.WriteLine("Dodawanie");
     }
     public static double Roznica(double a, double b)
     {
